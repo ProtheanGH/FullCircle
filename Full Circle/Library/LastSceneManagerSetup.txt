@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/Spencer_TestEnvironment.unity
+  isLoaded: 1
+  isActive: 1
